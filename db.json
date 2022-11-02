@@ -1,4 +1,6 @@
-{[
+{
+  "keyboard":
+  [
   {
     "id": 0,
     "imageUrl": "https://static.insales-cdn.com/images/products/1/4067/592842723/large_Vortex_Tab_60.jpg",
@@ -79,4 +81,5 @@
     "category": 0,
     "rating": 6
   }
-  ]}
+]
+}
