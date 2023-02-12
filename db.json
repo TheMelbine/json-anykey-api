@@ -14,7 +14,7 @@
         "Cherry Black"
       ],
       "price": 11690,
-      "category": 1,
+      "category": "custom",
       "rating": 4
     },
     {
@@ -30,7 +30,7 @@
         "Cherry MX Read"
       ],
       "price": 15490,
-      "category": 1,
+      "category": "custom",
       "rating": 6
     },
     {
@@ -46,7 +46,7 @@
         "MX RGB Silent Brown"
       ],
       "price": 12800,
-      "category": 2,
+      "category": "traditional",
       "rating": 6
     },
     {
@@ -62,7 +62,7 @@
         "Cherry MX RGB Red"
       ],
       "price": 14390,
-      "category": 2,
+      "category": "traditional",
       "rating": 7
     },
     {
@@ -77,7 +77,7 @@
         "Cherry MX Red"
       ],
       "price": 15490,
-      "category": 3,
+      "category": "ergonomic",
       "rating": 6
     },
     {
@@ -93,7 +93,7 @@
         "Cherry MX Read"
       ],
       "price": 15990,
-      "category": 3,
+      "category": "ergonomic",
       "rating": 2
     },
     {
@@ -109,7 +109,7 @@
         "Cherry MX RGB Red"
       ],
       "price": 14690,
-      "category": 4,
+      "category": "specialForMAC",
       "rating": 6
     },
     {
@@ -125,7 +125,7 @@
         "Cherry MX Read"
       ],
       "price": 15490,
-      "category": 4,
+      "category": "specialForMAC",
       "rating": 6
     }
   ]
